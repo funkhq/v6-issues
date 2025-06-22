@@ -5,6 +5,6 @@
 
 Every 8 to 10 months (more or less), FUNK reinvents itself. V6 - aka *Blossom* - is the latest rewrite of the project.
 
-## 🎯 Purpose of This Repo
+## 🎯 Purpose of this repository
 
 This repository exists **exclusively** for tracking bugs, suggesting / planning features, and other questions.
